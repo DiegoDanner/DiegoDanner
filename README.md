@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 - [x] Força
 - [ ] Desanimo
 
-![DiegoDanner's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoDanner&show_icons=true&theme=onedark)
+![DiegoDanner](https://github-readme-stats.vercel.app/api?username=DiegoDanner&show_icons=true&theme=onedark)
 
 ##### Tecnologias que eu uso no meu Dia
 
