@@ -10,7 +10,7 @@
 DiegoDanner/DiegoDanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![DIEGO](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoDanner)[![DIEGO](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mister_danner/)[![DIEGO](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DannerIdiomas/)[![DIEGO](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteV)](https://www.linkedin.com/in/diegodanner/)[![DIEGO](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diegodanner@gmail.com)
+[![DIEGO](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoDanner)[![DIEGO](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mister_danner/)[![DIEGO](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DannerIdiomas/)[![DIEGO](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteV)](https://www.linkedin.com/in/diegodanner/)[![DIEGO](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://emailto:diego@gmail.com)
 
 ##### Certificação do Curso Online DevStart no Linkedin
 
@@ -36,4 +36,3 @@ You can click the Preview link to take a look at your changes.
 ## Países que já visitei
 
 ![Alt text](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-united-states_1f1fa-1f1f8.png)![Alt text](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-germany_1f1e9-1f1ea.png)![Alt text](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png)![Alt text](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-austria_1f1e6-1f1f9.png)![Alt text](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-portugal_1f1f5-1f1f9.png)![Alt text](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-paraguay_1f1f5-1f1fe.png)![Alt text](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/349/flag-switzerland_1f1e8-1f1ed.png)
-
