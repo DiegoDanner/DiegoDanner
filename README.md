@@ -10,7 +10,7 @@
 DiegoDanner/DiegoDanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![DIEGO](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoDanner)[![DIEGO](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mister_danner/)[![DIEGO](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DannerIdiomas/)[![DIEGO](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteV)](https://www.linkedin.com/in/diegodanner/)[![DIEGO](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://emailto:diego@gmail.com)
+[![DIEGO](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoDanner)[![DIEGO](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mister_danner/)[![DIEGO](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DannerIdiomas/)[![DIEGO](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteV)](https://www.linkedin.com/in/diegodanner/)[![DIEGO](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxjQDXHggJcnzGtCfwMhgWMnfbQFnwlZpxgQtlcvzbWvFdCGqhXtHBJHxzrTttdgGgBlrQ)
 
 ##### Certificação do Curso Online DevStart no Linkedin
 
